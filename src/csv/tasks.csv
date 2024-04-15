@@ -1,0 +1,6 @@
+1,C7_SmartCalc,,500
+2,C8_3DViewer,C7_SmartCalc,750
+3,CPP1_Matrix,C8_3DViewer,300
+4,CPP2_Containers,CPP1_Matrix,350
+5,CPP3_SmartCalc,CPP2_Containers,600
+6,SQL1_Info21,C8_3DViewer,500

@@ -1,2 +1,6 @@
 # Data-analysis-and-statistics-for-School
-database with data about School with procedures and functions to retrieve information, as well as procedures and triggers to change it.
+
+ База данных со знаниями о школе.
+ Созданы таблицы для описания процедуры проверки в школе.
+ Добавлены процедуры и функции для добавления новых проверок, а также процедуры для изменения уже существующей информации.
+ Также созданы триггеры для проверки корректности информации, вставляемой в таблицы.
